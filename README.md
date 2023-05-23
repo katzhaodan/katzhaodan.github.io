@@ -1,3 +1,3 @@
-# H1
-## H2
+# Katrina Dan Zhao
+## PM & Researcher HCI
 ### H3
